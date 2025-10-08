@@ -58,7 +58,7 @@ STEP_RANGES = {
 }
  
 # 默认步数（当不在上述时间段时使用）
-DEFAULT_STEPS = 24465
+DEFAULT_STEPS = 8323
  
 # ==================== 主要功能类 ====================
 class StepSubmitter:
